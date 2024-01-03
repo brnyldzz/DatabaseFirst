@@ -6,5 +6,5 @@ Projede **C#** ve **SQL Server Management Studio 19** kullandım.
 <h2 align="left">Amaç</h2>
 Veritabanı ile web sitesini bağlamanın iki yolu var:
 Database First,
-Code First
+Code First.
 Database first ile bağlamayı öğrenip bildiklerimi pekiştirmek.
